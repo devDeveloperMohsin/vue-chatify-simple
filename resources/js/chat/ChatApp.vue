@@ -555,7 +555,6 @@
 
 				<!-- start User profile detail sidebar -->
 				<div class="user-profile-sidebar" style="display:block">
-					
 
 					<div class="text-center p-4 border-bottom">
 						<div class="mb-4">
